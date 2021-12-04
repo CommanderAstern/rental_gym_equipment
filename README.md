@@ -1,10 +1,10 @@
 <div id="top"></div>
 
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url] -->
+[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -13,7 +13,7 @@
   <a href="https://github.com/CommanderAstern/rental_gym_equipment">
     <img src="https://solidity.readthedocs.io/en/develop/_images/logo.svg" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">Rental Gym Equipment</h3>
+<h3 align="center">Basic Form</h3>
 
   <p align="center">
     A simple project on the basics of Solidity.
@@ -105,6 +105,7 @@ To get a local copy up and running follow these simple example steps.
     ```sh
     node deploy.js
     ```
+The Address and the menomonic of the contract is already present in the code
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,7 +120,6 @@ To get a local copy up and running follow these simple example steps.
 8. You will be able to interact with the contract which is located under the Deployed Contracts tab
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- LICENSE -->
-
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
