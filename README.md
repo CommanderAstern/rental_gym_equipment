@@ -61,6 +61,7 @@ This project uses solidity to create a smart contract that allows users to rent 
 The smart contract is deployed on the Rinkeby testnet.
 
 The address of the smart contract is: [0xdbF696aAc528eF4b36BEcC0b74dAc773465619de](https://rinkeby.etherscan.io/address/0xdbF696aAc528eF4b36BEcC0b74dAc773465619de)
+<br>
 Functions include:
 1. Clients can buy access to machines in the gym for time slots of 30 minute
 2. The owner can set the price per time slot whenever he wants.
