@@ -120,6 +120,7 @@ The Address and the menomonic of the contract is already present in the code
 8. You will be able to interact with the contract which is located under the Deployed Contracts tab
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
