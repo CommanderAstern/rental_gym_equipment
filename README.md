@@ -1,10 +1,10 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
 
 
 <!-- PROJECT LOGO -->
@@ -119,6 +119,7 @@ To get a local copy up and running follow these simple example steps.
 8. You will be able to interact with the contract which is located under the Deployed Contracts tab
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
