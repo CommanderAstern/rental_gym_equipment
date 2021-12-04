@@ -13,7 +13,7 @@
   <a href="https://github.com/CommanderAstern/rental_gym_equipment">
     <img src="https://solidity.readthedocs.io/en/develop/_images/logo.svg" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">Basic Form</h3>
+<h3 align="center">Gym Rental Equipment</h3>
 
   <p align="center">
     A simple project on the basics of Solidity.
